@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **NextJs**
 
-- 💬 Ask me about **Computer Science**
+- 💬 Ask me about **Java,Spring Boot,ReactJS**
 
 - 📫 How to reach me **2200030106cseh@gmail.com**
 
