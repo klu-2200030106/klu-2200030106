@@ -16,17 +16,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<p align="left">
 <a href="https://twitter.com/rohitkandu32607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohitkandu32607" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohitkandula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitkandula/" height="30" width="40" /></a>
-
 <a href="https://instagram.com/rohith___.54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohith___.54/" height="30" width="40" /></a>
-
 <a href="https://www.codechef.com/users/kandula_rohith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kandula_rohith" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/klu_2200030106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="klu_2200030106" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/klu__2200030106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="klu__2200030106" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/klu_2200030106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="klu_2200030106" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rohith881" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rohith881" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/klu2200030106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="klu2200030106" height="30" width="40" /></a>
+</p>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
