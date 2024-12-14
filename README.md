@@ -8,7 +8,8 @@ Hey there! I'm a passionate **Full Stack Web Developer** and **Competitive Progr
 - 🏫 Studying at **KL University**
 - 🌱 Currently diving deep into **NextJs**
 - 💡 Expertise: **Java, Spring Boot, ReactJS**
-- 📬 Reach me: **2200030106cseh@gmail.com**
+- 📬 Reach me: **kandularohithkumar999@gmail.com**
+
 
 ## 🔧 Tech Arsenal
 
