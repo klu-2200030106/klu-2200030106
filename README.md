@@ -1,53 +1,74 @@
-# Hi there! 👋 I'm Kandula Rohith Kumar
+# 🚀 Kandula Rohith Kumar | Full Stack Alchemist 
 
-## 🚀 Full Stack Web Developer | Competitive Coder | Freelancer
+## 💡 Code Wizard | System Architect | Innovation Catalyst
 
-![Profile Views](https://komarev.com/ghpvc/?username=klu-2200030106&label=Profile%20views&color=0e75b6&style=flat)
+![Coding Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,7,10,15,20&height=200&section=header&text=Rohith%20Kumar&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Sorcerer%20%7C%20Competitive%20Coding%20Maverick&descAlignY=51&descAlign=62)
 
-### 🎓 About Me
-- 🔭 Currently studying at **KL University**
-- 🌱 Learning **NextJs**
-- 💬 Ask me about **Java, Spring Boot, ReactJS**
-- 📫 Reach me at **2200030106cseh@gmail.com**
+### 🌟 Professional Constellation
 
-### 🛠️ Languages and Tools
-<p align="left">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-    <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&width=600&lines=Full+Stack+Web+Developer;Java+%7C+Spring+Boot+Specialist;React+Ninja;Next.js+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
+</div>
+
+### 🔧 Tech Arsenal
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,nodejs,python,mongodb,mysql,aws,docker,git,linux" />
+  </a>
 </p>
 
-### 🔗 Connect with Me
-<p align="left">
-    <a href="https://linkedin.com/in/rohitkandula/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="https://twitter.com/rohitkandu32607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-    <a href="https://instagram.com/rohith___.54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+### 📊 Code Metrics & Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=klu-2200030106&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=8&hide=jupyter%20notebook" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=klu-2200030106&theme=tokyonight" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🏆 Competitive Programming Battlefield
+
+<p align="center">
+  <a href="https://www.leetcode.com/klu_2200030106">
+    <img src="https://cp-logo.vercel.app/leetcode/klu_2200030106" alt="LeetCode" />
+  </a>
+  <a href="https://www.codechef.com/users/kandula_rohith">
+    <img src="https://cp-logo.vercel.app/codechef/kandula_rohith" alt="CodeChef" />
+  </a>
+  <a href="https://codeforces.com/profile/klu__2200030106">
+    <img src="https://cp-logo.vercel.app/codeforces/klu__2200030106" alt="Codeforces" />
+  </a>
 </p>
 
-### 📊 My GitHub Stats
+### 🌐 Connect & Collaborate
 
-#### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=klu-2200030106&show_icons=true&locale=en&layout=compact&theme=radical)
-
-#### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klu-2200030106&show_icons=true&locale=en&theme=radical)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klu-2200030106&theme=radical)
-
-### 🏆 Competitive Programming Profiles
-<p align="left">
-    <a href="https://www.codechef.com/users/kandula_rohith" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-    <a href="https://www.hackerrank.com/klu_2200030106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-    <a href="https://codeforces.com/profile/klu__2200030106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-    <a href="https://www.leetcode.com/klu_2200030106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:2200030106cseh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/rohitkandula/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/rohitkandu32607">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
+
+### 🔮 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=klu-2200030106&color=blueviolet&style=for-the-badge)
 
 ---
 
-*Passionate about coding, learning, and creating innovative solutions!* 💻✨
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+![Bottom Wave](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,7,10,15,20&height=120&section=footer)
