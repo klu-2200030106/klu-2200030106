@@ -37,10 +37,10 @@ Hey there! I'm a passionate **Full Stack Web Developer** and **Competitive Progr
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=klu-2200030106&show_icons=true&theme=radical&include_all_commits=true&hide_border=true" />
 </div>
 
-### 🔥 Coding Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klu-2200030106&theme=radical&hide_border=true)
-
-## 🌐 Connect & Compete
+<div align="center">
+  <h2>Coding Streak</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=klu-2200030106&theme=radical&hide_border=true" alt="GitHub Streak">
+</div>
 
 ### 🤝 Social Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohitkandula/)
