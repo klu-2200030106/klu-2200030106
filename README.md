@@ -16,7 +16,7 @@ Hey there! I'm a passionate **Full Stack Web Developer** and **Competitive Progr
 - 📬 Reach me: **kandularohithkumar999@gmail.com**
 
 
-  <h2 align="center">Tech Stack 💻</h2>
+  <h2 >Tech Stack 💻</h2>
 
 
 ### Languages and Frameworks
