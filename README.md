@@ -16,7 +16,8 @@ Hey there! I'm a passionate **Full Stack Web Developer** and **Competitive Progr
 - 📬 Reach me: **kandularohithkumar999@gmail.com**
 
 
-## 🔧 Tech Arsenal
+  <h2 align="center">Tech Stack 💻</h2>
+
 
 ### Languages and Frameworks
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
