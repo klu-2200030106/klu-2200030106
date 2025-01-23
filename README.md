@@ -57,7 +57,7 @@ Hey there! I'm a passionate **Full Stack Web Developer** and **Competitive Progr
 
 *Crafting code, solving problems, and pushing boundaries!* 💻🌈✨
 
-Thank you for Going through my profile
+<h2 align="center">Thank you for Going through my profile</h2>
 
 
 <br/>
