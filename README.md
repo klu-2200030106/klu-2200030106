@@ -30,7 +30,7 @@ Hey there! I'm a passionate **Full Stack Web Developer** and **Competitive Progr
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
-## 📊 GitHub Stats
+<h2 align="center">Github Stats</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klu-2200030106&layout=compact&theme=radical&hide_border=true" />
