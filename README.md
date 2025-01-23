@@ -56,3 +56,12 @@ Hey there! I'm a passionate **Full Stack Web Developer** and **Competitive Progr
 ---
 
 *Crafting code, solving problems, and pushing boundaries!* 💻🌈✨
+
+Thank you for Going through my profile
+
+
+<br/>
+
+<p align="center">
+<img src="https://media.giphy.com/media/JUSwkiO1Eh5K43ruN0/giphy.gif" width="480" height="287">
+</p>
